@@ -1,4 +1,4 @@
-package com.expozebraprintermodule;
+package id.astra.zebraprinter;
 
 import android.os.Build;
 import android.os.Bundle;

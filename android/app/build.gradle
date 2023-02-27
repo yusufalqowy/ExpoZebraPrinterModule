@@ -113,13 +113,13 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.expozebraprintermodule"
+    namespace 'id.astra.zebraprinter'
     defaultConfig {
-        applicationId "com.expozebraprintermodule"
+        applicationId 'id.astra.zebraprinter'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.0"
     }
 
     splits {

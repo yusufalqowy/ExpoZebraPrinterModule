@@ -5,6 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "id.astra.zebraprinter"
+    },
+    "ios": {
+      "bundleIdentifier": "id.astra.zebraprinter"
+    }
   }
 }
